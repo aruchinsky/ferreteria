@@ -32,7 +32,7 @@ Este proyecto es una aplicación web desarrollada en Laravel y Bootstrap para la
 
 1. **Clonar el repositorio:**
     ```
-    git clone https://github.com/tu-usuario/ferreteria.git
+    git clone https://github.com/aruchinsky/ferreteria.git
     cd ferreteria
     ```
 2. **Instalar dependencias de PHP:**
